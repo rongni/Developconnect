@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://rni4:rni4@cluster0-hwzjo.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://rni4:rni4@cluster0-hwzjo.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken"
 }
